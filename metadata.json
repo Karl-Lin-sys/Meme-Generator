@@ -1,0 +1,6 @@
+{
+  "name": "Meme Generator",
+  "description": "An AI-powered meme generator that uses Gemini to analyze images and suggest 5 funny, viral-worthy captions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
